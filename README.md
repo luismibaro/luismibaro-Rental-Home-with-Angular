@@ -18,3 +18,7 @@
 - Run the application 
 
   `ng serve`
+
+- Access to the applicacion
+
+ `localhost:4200`

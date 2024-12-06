@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Angular-Housing
-Apartment location platform
-=======
 # Angular Homes App
 - Install Angular if you don't have it installed
 
@@ -22,4 +18,3 @@ Apartment location platform
 - Run the application 
 
   `ng serve`
->>>>>>> df75822 (Primer commit)
